@@ -13,3 +13,4 @@ Here you can access the problem solutions by the used technique.
 7. [**Polymorphism**](https://github.com/StanchosCodes/SoftUni-CSharp-OOP/tree/main/Polymorphism)
 8. [**Polymorphism - More problem solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-OOP/tree/main/Polymorphism%20-%20More%20Problem%20Solutions)
 9. [**Exceptions and Error Handling**](https://github.com/StanchosCodes/SoftUni-CSharp-OOP/tree/main/Exceptions%20and%20Error%20Handling)
+10. [**SOLID**](https://github.com/StanchosCodes/SoftUni-CSharp-OOP/tree/main/SOLID)
