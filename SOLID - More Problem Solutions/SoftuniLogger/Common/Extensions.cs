@@ -1,0 +1,18 @@
+﻿namespace SoftuniLogger.Common
+{
+    using System.Collections.Generic;
+    using Appenders.Interfaces;
+    public static class Extensions
+    {
+        public static void AddRange<T>(this ICollection<T> appenders, IEnumerable<T> appendersToAdd)
+        {
+            foreach (T appenderToAdd in appendersToAdd)
+            {
+                appenders.Add(appenderToAdd);
+            }
+        }
+
+        public static IReadOnlyCollection<IAppender> AsReadOnly(this ICollection<IAppender> appenders)
+            => (IReadOnlyCollection<IAppender>)appenders;
+    }
+}

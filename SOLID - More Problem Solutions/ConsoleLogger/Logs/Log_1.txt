@@ -1,0 +1,10 @@
+﻿<log>
+    <date>3/26/2015 2:08:11 PM</date>
+    <level>Error</level>
+    <message>Error parsing JSON.</message>
+</log>
+<log>
+    <date>3/26/2015 2:08:11 PM</date>
+    <level>Info</level>
+    <message>User Pesho successfully registered.</message>
+</log>
